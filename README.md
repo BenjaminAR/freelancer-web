@@ -13,7 +13,7 @@ _Solo has un git clone del proyecto y abre un servidor en la carpeta SitioFreala
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+_Cosas que se necesita para visualizar el proyecto_
 
 ``` 
 Abrir el index.html de preferencia en exploradores Edge, Chrome, Firefox.
@@ -21,7 +21,7 @@ Abrir el index.html de preferencia en exploradores Edge, Chrome, Firefox.
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Herramientas que utilize para crear el proyecto_
 
 * [Normalize](https://necolas.github.io/normalize.css/) - Normalización de css
 
