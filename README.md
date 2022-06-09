@@ -8,7 +8,7 @@ _Página creada como recurso de aprendizaje del Udemy._
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-_Solo has un git clone del proyecto y abre un servidor en la carpeta SitioFrealance ó abre directamente el archivo index.html
+ * Solo has un git clone del proyecto y abre un servidor en la carpeta SitioFrealance ó abre directamente el archivo index.html
 
 
 ### Pre-requisitos 📋
