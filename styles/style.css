@@ -10,6 +10,7 @@
 html {
     font-size: 62.5%;
     box-sizing: border-box;
+    scroll-snap-type: y mandatory;
 }
 
 *, *:before,*:after {
@@ -195,7 +196,11 @@ a {
 
 /* Servicios */
 
-
+.servicio, 
+.hero, .scroll-form{
+    scroll-snap-align: center;
+    scroll-snap-stop: always;
+}
 
 @media (min-width: 768px) {
     .servicios {
