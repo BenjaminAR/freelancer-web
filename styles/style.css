@@ -103,6 +103,7 @@ a {
     padding: 1.2rem;
     width: 93%;
     text-align: center;
+    border-radius: 3px;
 }
 
 .nav-principal a:hover {
@@ -110,24 +111,6 @@ a {
     color: var(--negro);
 
 }
-
-
-/* btn */
-
-.btn {
-    font-weight: bold;
-    padding: 1.2rem;
-    border-radius: 3px;
-    color: var(--blanco);
-    border-color: var(--azul);
-}
-
-.btn:hover {
-    background-color: transparent;
-    cursor: pointer;
-}
-
-/* btn--end */
 
 
 @media (max-width: 480px) {
